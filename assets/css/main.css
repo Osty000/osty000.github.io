@@ -1,0 +1,29 @@
+body {
+	background: 
+	url("../images/bg.jpg") center no-repeat;
+
+	color: #fff;
+	font-family: sans-serif;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 80px;
+	font-size: 50px;
+}
+
+p {
+	text-align: center;
+	font-size: 25px;
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+	margin-bottom: 40px;
+}
+
+.link {
+	margin-bottom: 7px;
+}
