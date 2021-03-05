@@ -1,43 +1,24 @@
-body {
-	background: 
-	url("../images/bg.jpg") center no-repeat;
-
-	color: #fff;
-	font-family: sans-serif;
-	background-size: cover;
-	background-attachment: fixed;
+.maintext{
+    text-align: center;
+    font-size: 100px;
 }
 
-h1 {
-	text-transform: uppercase;
-	text-align: center;
-	margin-top: 80px;
-	font-size: 50px;
+body{
+    background-color: rgb(230, 228, 235);
 }
 
-p {
-	text-align: center;
-	font-size: 25px;
-	display: block;
-	margin: 0 auto;
-	width: 80%;
-	margin-bottom: 30px;
-}
+.btrandom{
+    display: inline-block;
+    padding: 1.1em 2.1em;
 
-.link {
-	padding: 0;
-	margin-bottom: 10px;
-}
+    background: rgb(216, 94, 94);
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 2.5em;
 
-.link__btn {
-	cursor: pointer;
-}
-
-.btn {
-	cursor: pointer;
-	width: 9%;
-	height: 30px;
-	margin-right: 5px;
-	text-align: center;
-	font-size: 18px;
+    font-size: 30px;
+    line-height: 1.1;
+    font-weight: 500;
+    color: white;
 }
